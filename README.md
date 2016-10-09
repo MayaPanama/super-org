@@ -1,2 +1,3 @@
 # super-org
 personal
+this is my new adventure into the programming world. lets see where it will take me....
